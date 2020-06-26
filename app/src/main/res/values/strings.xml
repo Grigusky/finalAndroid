@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">final Android memo</string>
+
+    <string name="memo_content">write your memo</string>
+    <string name="memo_submit_button">submit</string>
+
+    <string name="memo_starter">1) </string>
+</resources>
